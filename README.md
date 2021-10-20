@@ -1,5 +1,4 @@
-Responsive-Website-Design: 
-https://github.com/kanjamad/web
+Responsive-Website-Design: https://github.com/kanjamad/blogs-app
 
 # Installing a Web Server and WordPress on Localhost
 
