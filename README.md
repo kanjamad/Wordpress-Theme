@@ -35,8 +35,6 @@ For XAMPP the folder for your web project files will be in the subfolder ‘htdo
 The folder is located at /Users/<youruser>/.bitnami/stackman/machines/xampp/volumes/root/htdocs where you replace <youruser> with your Mac username. I suggest dragging the htdocs folder into your Favorites to avoid manually navigating this path over and over again!
 
 ![php](assets/php.png "php")
-## Installing WampServer on Windows;
-* Installing a web server for Windows is pretty straightforward. It's mostly about following the setup wizard so that I won't go into much detail here.
 
 * After the database has been created you can close phpMyAdmin. The next step is setting up WordPress’ config file.
 
@@ -49,22 +47,7 @@ define( 'DB_PASSWORD', '' );
 Leave the rest as is, save and close the file.
 
 
-
-## WordPress starter theme
-Understrap WordPress Theme Framework.<a href="https://github.com/understrap/understrap" target="_blank"> understrap GitHub</a> 
-### Basic Features
-* Combines Underscore’s PHP/JS files and Bootstrap’s HTML/CSS/JS.
-* Comes with Bootstrap (v4) Sass source files and additional .scss files. Nicely sorted and ready to add your own variables and customize the Bootstrap variables.
-* Uses a single minified CSS file for all the basic stuff.
-* Font Awesome integration (v4.7.0)
-* Jetpack ready
-* WooCommerce support
-* Contact Form 7 support
-* Child Theme ready
-* Translation ready
-
-
-# Local by flywheel
+# Or use Local by flywheel
 ![local](assets/local.png "local")
 * https://localwp.com/
 * Allow us to change the file on mac called the hosts file 
